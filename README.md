@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Paul-Njihia
+- 👀 I’m interested in coding and learning
+- 🌱 I’m currently learning JavaScript
+- 💞️ I’m looking to collaborate on coding projects
+- 📫 Reach me through my Email.
